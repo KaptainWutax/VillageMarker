@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "kaptainwutax.villagemarker.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinVillagerEntity"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
